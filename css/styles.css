@@ -1,0 +1,164 @@
+html, body {
+
+  height: 100%;
+  width: 100%;
+  margin:0
+}
+
+h3 {
+  margin: 2px 0 9px 0;
+  font-size: 1.8rem;
+  font-family: sans-serif;
+  color: '#ffffff';
+  text-align: center;
+}
+
+h4 {
+
+  font-size: 0.5rem;
+  font-family: sans-serif;
+  color: '#ffffff';
+  text-align: center;
+}
+
+h6 {
+  margin: 8px 0 9px 0;
+  font-family: sans-serif;
+  color: '#ffffff';
+  text-align: center;
+}
+
+p {
+  margin: 8px 0 9px 0;
+  font-size: 0.02;
+  font-family:sans-serif;
+  color: '#ffffff';
+  text-align: justify;
+}
+
+h2 {
+  margin: 0 0 15px 0;
+  font-size: 1rem;
+  color: '#ffffff';
+}
+
+#mapContainer {
+
+  height: 100%;
+  width: 100%;
+  background: lightgrey;
+  opacity: 20%;
+}
+
+.container-fluid {
+  width:100%;
+}
+
+
+.info-box {
+  width: 350px;
+  position: absolute;
+  padding: 50px;
+  top: 5px;
+  bottom:0px;
+  left: 1px;
+  z-index: 10;
+  background-color:#bfbfbf;
+  font-size: 1rem;
+  box-sizing:content-box;
+  font-weight: lighter;
+  margin-bottom:5px;
+  color: white;
+}
+
+#Interactivity {
+  width:450px;
+  position: absolute;
+  padding: 9px;
+  top: 520px;
+  left: 0px;
+  z-index: 10;
+  font-size: 5px;
+  color: : white;
+}
+
+
+.buttonv {
+  background-color:#999999;
+  border: none;
+  color: #f2f2f2;
+  padding: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  margin-left: 20px;
+  border-radius: 50%;
+}
+
+.buttonp {
+  background-color:#999999;
+  border: none;
+  color: #f2f2f2;
+  padding: 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  margin: 4px 2px;
+  margin-left: 95px;
+  border-radius: 50%;
+}
+
+#neighborhood-box {
+  width: 300px;
+  position: absolute;
+  padding: 15px;
+  right:0px;
+  top: 300px;
+  z-index: 10;
+  padding: 15px;
+  font-size: 1rem;
+  font-weight: lighter;
+  margin-bottom:5px;
+  color:  #a6a6a6;
+  text-align: left;
+  background-color:#f2f2f2;
+}
+
+.flyto {
+  background-color:#75a3a3;
+  opacity: 0.5px;
+  border: none;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display:inline;
+  font-size: 13px;
+  margin: 4px 2px;
+  align-items: center;
+  color:white;
+}
+
+#legend-box {
+  width: 300px;
+  position:absolute;
+  padding:10px;
+  right: 0px;
+  height: 280px;
+  top:550px;
+  z-index: 10;
+  text-align:left;
+  font-size: 0.8rem;
+  font-weight: lighter;
+  float: right;
+  color:   #a6a6a6;
+  background-color: #f2f2f2;
+}
+
+.legend-color-box {
+  height: 15px;
+  width: 15px;
+  float: left;
+  margin-right: 10px;
