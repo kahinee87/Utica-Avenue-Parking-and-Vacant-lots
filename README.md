@@ -1,2 +1,4 @@
 # Utica-Avenue-Parking-and-Vacant-lots
-This interactive web mapping exercise helps identify information about parking lots, garages and vacant land that can be reactivated along the Utica Avenue corridor
+Utica Avenue corridor study is a capstone project under the Office of the Brooklyn Borough President. The site is a 2.64 mile stretch from Eastern parkway to Avenue I with a 1/4 mile buffer from the corridor for the study. ONe major aspect of the study was to gather information about parking lots and garages and vacant land in the study area to further consider reactivation in form of open spaces and affordable housing. Through this map exercise I am spatially locating and clearly highlighting the parking areas and vacant lots and information necessary to consider for reactivation like the FAR,zoning and lot area. This would serve as a first step to locate opportunity area for reactivation and proposing feasible options. 
+Resouces:
+Basemap- Mapboxstudio ; Styling- Bootstrap ; Geojson- Pluto data ; Content information - Capstone project
